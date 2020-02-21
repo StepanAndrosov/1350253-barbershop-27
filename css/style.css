@@ -440,6 +440,13 @@ a {
   background-color: #ffffff;
 }
 
+.product-photos {
+  width: 460px;
+
+  /* Временно для сетки */
+  min-height: 677px;
+}
+
 .product-photo-preview {
   list-style: none;
 }
@@ -462,6 +469,13 @@ a {
   text-align: center;
 
   background-color: #e5e5e5;
+}
+
+.product-info {
+  width: 390px;
+
+  /* Временно для сетки */
+  min-height: 667px;
 }
 
 .product-info h3 {
